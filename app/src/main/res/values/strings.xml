@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">FastAndroid</string>
+    <string name="Las_ventanas_de_Tisquizoque">Las ventanas de Tisquizoque</string>
+    <string name="ventanas_de_tisquizoque">ventanas_de_tisquizoque_image</string>
+    <string name="Description_text">Las ventanas de Tisquizoque están ubicadas
+        e Florián Santander,un lugar emblemático, lleno de historia y magia,
+        imagina una cueva en medio de una montaña.
+        de la cual emana agua, una cascada de tres escalones que suman 322 metros de altura.
+        \n
+        \n Para llegar a la cueva se debe pasar por dos puentes de madera, desde allí se puede
+        observar la primera cascada, lugar del sacrificó del cacique Tisquizoque, está posee
+        86 metros de altura, la segunda 110 y la última, el salto más largo de la quebrada,
+        de 126 metros y como el mejor cuento de hadas desemboca en un sublime Pozo Azul.
+        \n
+        \nLugar: Municipio de Florián Santander
+        \n
+        \nTemperatura: 19 – 27°C
+        \n
+        \nAltura: 1300 – 2000 m.s.n.m
+        \n
+        \nEcosistema: Bosque húmedo Tropical
+    </string>
 </resources>
