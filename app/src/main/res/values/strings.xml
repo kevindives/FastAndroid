@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">FastAndroid</string>
+    <string name="app_name">EcoSantander</string>
+    <string name="titulo">Santurbán</string>
+    <string name="descripcion">El Complejo del Páramo Santurbán se ubica en el noroeste de la Cordillera de Los Andes, integrando territorios de Santander y Norte de Santander. Dentro de su área se destacan: el Parque Natural Regional Santurbán y el complejo lagunario, que comprende una alta riqueza en flora, fauna y microbiota, con bosques andinos. Este santuario es perfecto para las caminatas ecológicas.</string>
+    <string name="cobertura_suelo">Cobertura del Suelo</string>
+    <string name="descripcion_cobertura_suelo">"En santurbán se puede dividir la zona en cuatro clases: vegetación de páramo (50.3% del área), bosques andinos (27.1% del área), tierras agropecuarias mixtas y otro espacio intervenido (22.5% del área) y humedales (0.1% del área). "</string>
+    <string name="clima">El clima</string>
+    <string name="descripcion_clima">El clima típico del páramo se caracteriza por ser frío a extremadamente frío con moderadas a abundantes precipitaciones, temperaturas mínimas por debajo de 0ºC y máximas que superan los 35ºC.</string>
+
+
 </resources>
